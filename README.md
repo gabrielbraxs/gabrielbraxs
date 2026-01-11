@@ -1,16 +1,19 @@
-## Hi there 👋
+# 📌 Meu Perfil Acadêmico
+* **Curso:** Gestão de Tecnologia da Informação
+* **Instituição:** Centro Universitário Padre Anchieta (Anchieta)
+* **Diferencial:** Visão de processos de negócio, governança de TI e alinhamento estratégico entre tecnologia e metas corporativas.
 
-<!--
-**gabrielbraxs/gabrielbraxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Stack Técnica & Objetivos de Aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Power BI (Visualização & Storytelling)
+* **O que já sei:** Conectar fontes de dados, criar gráficos básicos.
+
+### 🐍 Python (Manipulação & Automação)
+* **Foco Principal:** Bibliotecas **Pandas** . **NumPy** e **Selenium**.
+
+### 🗄️ MySQL (Fundação de Dados)
+* **O que já sei:**query simples** e **Intermediaria**.
+---
+> "Dados são apenas números até que você conte uma história com eles."
